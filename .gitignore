@@ -1,0 +1,21 @@
+
+# Gizli bilgiler
+.env
+.env.*
+
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyCharm ayarları
+.idea/
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
